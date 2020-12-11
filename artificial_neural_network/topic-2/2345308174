@@ -1,0 +1,1 @@
+Understanding 3D object structure from a single image is an important but difficult task in computer vision, mostly due to the lack of 3D object annotations in real images. Previous work tackles this problem by either solving an optimization task given 2D keypoint positions, or training on synthetic data with ground truth 3D information.
