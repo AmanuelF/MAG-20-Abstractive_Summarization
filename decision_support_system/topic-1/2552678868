@@ -1,0 +1,1 @@
+Portable medical devices generate volumes of data that could be useful in identifying health risks. The proposed method filters patients' electrocardiograms (ECGs) and applies machine-learning classifiers to identify cardiac health risks and estimate severity. The authors present the results of applying their method in a case study.
