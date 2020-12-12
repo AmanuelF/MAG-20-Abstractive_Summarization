@@ -1,0 +1,1 @@
+Failed chemical reactions are rarely reported, even though they could still provide information about the bounds on the reaction conditions needed for product formation; here data from such reactions are used to train a machine-learning algorithm, which is subsequently able to predict reaction outcomes with greater accuracy than human intuition.
