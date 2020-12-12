@@ -1,0 +1,1 @@
+This paper demonstrates a knowledge-based autonomous service provisioning framework for multi-domain SD-EONs supported by a broker plane equipped with a deep-learning based traffic estimator. Simulation results show that the proposed framework achieves ∼ 91% traffic prediction accuracy and ∼ 9× blocking reduction compared to conventional solutions.
