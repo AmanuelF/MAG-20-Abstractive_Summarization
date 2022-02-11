@@ -2,9 +2,11 @@
 
 You can find the link to the research paper of this dataset [here](https://arxiv.org/abs/2011.08072).  If you find this dataset useful in your research, please cite:
 
-    @article{alambo2020topic,
-      title={Topic-Centric Unsupervised Multi-Document Summarization of Scientific and News Articles},
-      author={Alambo, Amanuel and Lohstroh, Cori and Madaus, Erik and Padhee, Swati and Foster, Brandy and Banerjee, Tanvi and Thirunarayan, Krishnaprasad and Raymer, Michael},
-      journal={arXiv preprint arXiv:2011.08072},
-      year={2020}
-    }
+@inproceedings{alambo2020topic,
+  title={Topic-centric unsupervised multi-document summarization of scientific and news articles},
+  author={Alambo, Amanuel and Lohstroh, Cori and Madaus, Erik and Padhee, Swati and Foster, Brandy and Banerjee, Tanvi and Thirunarayan, Krishnaprasad and Raymer, Michael},
+  booktitle={2020 IEEE International Conference on Big Data (Big Data)},
+  pages={591--596},
+  year={2020},
+  organization={IEEE}
+}
