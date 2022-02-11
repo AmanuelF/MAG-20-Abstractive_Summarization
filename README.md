@@ -1,6 +1,6 @@
 # MAG-20-Abstractive_Summarization
 
-You can find the link to the research paper of this dataset [here](https://arxiv.org/abs/2011.08072).  If you find this dataset useful in your research, please cite:
+You can find the link to the research paper of this dataset [here](https://ieeexplore.ieee.org/abstract/document/9378403).  If you find this dataset useful in your research, please cite:
 
 @inproceedings{alambo2020topic,
   title={Topic-centric unsupervised multi-document summarization of scientific and news articles},
